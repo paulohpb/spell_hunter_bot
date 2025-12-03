@@ -1,0 +1,15 @@
+# Segurança (NUNCA REMOVA ISSO)
+.env
+.env.local
+
+# Lixo do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Lixo do Docker e Logs
+logs/
+*.log
+
+# VS Code
+.vscode/

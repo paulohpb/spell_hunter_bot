@@ -1,0 +1,32 @@
+[
+    {
+        "url": "https://www.kabum.com.br/produto/950213/gabinete-clanm-night-rodan-micro-atx-mini-tower-preto",
+        "target_price": 350.00,
+        "name": "Gabinete Clanm Rodan (Curvo)"
+    },
+    {
+        "url": "https://www.kabum.com.br/produto/447749/water-cooler-rise-mode-aura-ice-argb-240mm-amd-intel-branco-rm-wai-02-argb",
+        "target_price": 420.00,
+        "name": "Water Cooler Rise Mode 240mm"
+    },
+    {
+        "url": "https://www.pichau.com.br/kit-ventoinhas-aigo-darkflash-ar12-pro-3in1-3x120mm-argb-preto-ar12-pro-3in1",
+        "target_price": 120.00,
+        "name": "Kit Fans Aigo AR12 (3un)"
+    },
+    {
+        "url": "https://www.kabum.com.br/produto/728113/placa-de-video-galax-rtx-5070-1-click-oc-nvidia-geforce-12gb-gddr7-192-bit-ray-tracing-dlss-4-57non7mdbroc",
+        "target_price": 4000.00,
+        "name": "GPU Galax RTX 5070 SG"
+    },
+    {
+        "url": "https://www.kabum.com.br/produto/726388/placa-de-video-msi-geforce-rtx-5070-12g-vanguard-soc-launch-edition-nvidia-geforce-12gb-gddr7-192-bits-fp4-e-dlss-4-g5070-12vgsl",
+        "target_price": 3700.00,
+        "name": "GPU MSI RTX 5070 Shadow"
+    },
+    {
+        "url": "https://www.kabum.com.br/produto/714571/placa-de-video-gigabyte-rtx-5070-gaming-oc-12g-nvidia-geforce-12gb-gddr7-192bits-rgb-dlss-ray-tracing-9vn5070go-00-g10",
+        "target_price": 4000.00,
+        "name": "GPU Gigabyte RTX 5070 Gaming OC"
+    }
+]

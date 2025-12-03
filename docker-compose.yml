@@ -1,0 +1,12 @@
+services:
+  spell-hunter:
+    build: .
+    container_name: spell_hunter_bot
+    # Mount /dev/shm to prevent Chrome crashes in container
+    shm_size: '2gb'
+    volumes:
+      - ./logs:/app/logs
+      - ./config.json:/app/config.json
+    env_file:
+      - .env
+    restart: unless-stopped
