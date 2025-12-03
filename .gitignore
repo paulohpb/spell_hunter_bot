@@ -13,3 +13,6 @@ logs/
 
 # VS Code
 .vscode/
+
+# AI Coding Instructions
+.github/
